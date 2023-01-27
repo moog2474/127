@@ -1,0 +1,81 @@
+const data = [
+    {
+        id: 1,
+        productName: "Potatoes",
+        category: "Vegetables",
+        price: "1.99",
+        inStock: true,
+    },
+    {
+        id: 2,
+        productName: "Carrots",
+        category: "Vegetables",
+        price: "1.79",
+        inStock: true,
+    },
+    {
+        id: 3,
+        productName: "Lettuce",
+        category: "Vegetables",
+        price: "2.99",
+        inStock: true,
+    },
+    {
+        id: 4,
+        productName: "Cabbages",
+        category: "Vegetables",
+        price: "2.59",
+        inStock: false,
+    },
+    {
+        id: 5,
+        productName: "Premium Burger Buns",
+        category: "Breads",
+        price: "4.99",
+        inStock: true,
+    },
+    {
+        id: 6,
+        productName: "1st grade Burger Buns",
+        category: "Breads",
+        price: "3.99",
+        inStock: false,
+    },
+    {
+        id: 7,
+        productName: "Mince",
+        category: "Meat",
+        price: "12.99",
+        inStock: true,
+    },
+    {
+        id: 8,
+        productName: "Pork",
+        category: "Meat",
+        price: "9.99",
+        inStock: true,
+    },
+    {
+        id: 9,
+        productName: "Mutton",
+        category: "Meat",
+        price: "13.99",
+        inStock: false,
+    },
+    {
+        id: 10,
+        productName: "Mayonnaise",
+        category: "Spreads",
+        price: "3.99",
+        inStock: true,
+    },
+    {
+        id: 11,
+        productName: "Chili Sauce",
+        category: "Spreads",
+        price: "4.99",
+        inStock: false,
+    },
+]
+
+export { data }
